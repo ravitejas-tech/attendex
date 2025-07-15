@@ -1,8 +1,6 @@
-Here’s an enhanced version of your GitHub README-style project documentation, rewritten for clarity, professionalism, and better formatting for developers:
+# Attendex
 
----
-
-# 🎓 Academic Insight & Attendance Tracker
+### 🎓 Academic Insight & Attendance Tracker
 
 A centralized platform designed to empower colleges with actionable insights into student academics, attendance, and performance trends.
 
