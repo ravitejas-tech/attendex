@@ -125,8 +125,3 @@ These are **optional enhancements** for future iterations:
 * [ ] Notification rules setup
 * [ ] CSV/PDF export module
 
----
-
-Let me know if you want this version optimized further for a `README.md` with markdown badges, shields, or deployment instructions.
-
-
